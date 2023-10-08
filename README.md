@@ -1,5 +1,5 @@
 # imgui-lottery-draw
-基于imgui的游戏抽奖扩展
+基于imgui的抽奖(类似轮盘)扩展
 
 ### 2023-10-09 version 0.0.1
 - 极简调用
