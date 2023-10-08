@@ -39,7 +39,6 @@ LDobj.ImLD_RunTick([&LDobj]() {
     }
   }
 );
-
-## 0.0.1 附加
-早期尝试版本建议不要使用, 在整理框架重写中. (dalao勿喷)
 ```
+## 0.0.1 附加
+"ImGui-LotteryDraw.zip"为VisualStudio2022的项目可以开袋即食玩玩, 早期尝试版本建议不要使用, 在整理框架重写中. (dalao勿喷)
