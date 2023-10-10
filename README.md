@@ -11,7 +11,7 @@
 - 增加主窗口可设置背景图片
 - 整理了源码
 
-![IMG](https://github.com/rcszc/PomeloNodesEditor/blob/main/gamelottery_test_image)
+![IMG](https://github.com/rcszc/imgui-gamelottery/blob/main/gamelottery_test_image)
 
 ~~0.0.1A~~ 移到old分支.
 
